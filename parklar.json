@@ -1,0 +1,16 @@
+{"mekanlar":[
+
+{
+"mekanId":"1",
+"mekanResim":"dogalyasamparki",
+"mekanAdi":"Doğal Yaşam Parkı ",
+"mekanil":"İzmir",
+"mekanilce":"Çiğli",
+"mekanUlke":"Türkiye",
+"geolocation_latitude":"38.491111",
+"geolocation_longitude":"26.963611",
+"mekanResimleri":"",
+"mekanAciklama":"İzmir Doğal Yaşam Parkı, İzmir'in Çiğli ilçesinde yer alan kâr amacı gütmeyen bir hayvanat bahçesidir.İzmir Büyükşehir Belediyesi tarafından 30 Kasım 2008'de açılmıştır. 125 türden 1.500 hayvanın bulunduğu park 425.000 m²'lik alan üzerinde kuruludur. Avrupa Hayvanat Bahçeleri ve Akvaryumlar Birliği üyesidir. Yılda 1 milyondan fazla kişinin ziyaret ettiği parkta kapatılan İzmir Hayvanat Bahçesi'nden ve yurt dışından getirilen hayvanlar doğal ortamlarında sergilenmektedir."
+
+}
+]}
